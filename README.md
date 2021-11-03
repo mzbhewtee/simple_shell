@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="http://www.alxschool.com/alx-logo.png" alt="ALX School logo">
+  <img src="https://theme.zdassets.com/theme_assets/10239256/f69718478ae7ecaaae43d9f8aefd9638c313b55e.jpg" alt="ALX School logo">
 </p>
 
-<p align="center"> #Simple Shell project </p>
+#Simple Shell project
 
 
